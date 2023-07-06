@@ -1,4 +1,4 @@
-# EasyColorsExtension
+# BootstrapPlus
 Extensão de palheta de cores para Bootstrap 5
 
 Link para consultar as cores disponíveis: https://getbootstrap.com/docs/5.2/customize/color/
